@@ -63,7 +63,7 @@ export default function Home() {
                   priority
               />
             </div>
-            <h1 className="text-5xl font-bold tracking-tight">Welcome to the Main Event</h1>
+            <h1 className="text-5xl font-bold tracking-tight">Looking forward to</h1>
             <p className="text-lg text-white/80">
               Whether it’s a concert, a poem reading, or the game of the season—your moment is almost here.
             </p>
